@@ -1,2 +1,2 @@
 # xiaokacamel
-camel小案例
+camel小案例，用于快速的测试camel各个组件的功能以及参数的含义
